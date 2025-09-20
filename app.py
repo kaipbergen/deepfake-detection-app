@@ -165,7 +165,7 @@ css = """
     border-radius: 10px;
     border-left: 4px solid #667eea;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
-    color: #333333; /* Add this line - a dark gray for text */
+    color: #323232; /* Add this line - a dark gray for text */
 }
 .upload-box {
     padding: 20px;
